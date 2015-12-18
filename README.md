@@ -2,6 +2,8 @@
 
 Auto-completion for the CloudFoundry cf CLI. 
 
+![Demo](images/cf.gif)
+
 # Installation
 
 From the directory which contains cf-complete issue the following command
