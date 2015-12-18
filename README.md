@@ -11,3 +11,7 @@ From the directory which contains cf-complete issue the following command
 ```
 source cf.completion.bash
 ```
+
+# NOTE
+
+Make sure `jq` is available on your machine.
